@@ -4,7 +4,7 @@ One Excel tip every day, automatically — for Data Entry Operator (DEO) practic
 
 ## What it does
 
-- `tip_bot.py` picks one tip for today from a list of 31 tips (SUM, AVERAGE, COUNTIF, VLOOKUP, IF, TRIM, Pivot Table, shortcuts, and more).
+- `tip_bot.py` picks one tip for today from a list of 32 DEO daily-life tips (Sum, Average, CountIF, VLOOKUP, Pivot Table, Duplicate, Data Filter, and Advance Excel — attendance, salary, marks, stock, and customer data entry).
 - The tip is chosen by the date, so the same day always gives the same tip and the list cycles fairly.
 - It writes the tip to `TIP_OF_THE_DAY.md`.
 

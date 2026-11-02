@@ -2,13 +2,13 @@
 
 **Date:** 2026-11-02
 
-## LEFT - shuru ke letters
+## TEXTJOIN - naam + sheher jodo
 
 ```
-=LEFT(A1, 3)
+=TEXTJOIN(", ", TRUE, A2:B2)
 ```
 
-Text ke shuru ke 3 letters deta hai. RIGHT aakhri letters deta hai, MID beech ke.
+Naam aur sheher ko comma se ek cell me jodo. Address list banane me kaam aata hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
