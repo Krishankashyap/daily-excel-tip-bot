@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-02
+**Date:** 2026-11-03
 
-## TEXTJOIN - naam + sheher jodo
+## TODAY - aaj ki date apne aap
 
 ```
-=TEXTJOIN(", ", TRUE, A2:B2)
+=TODAY()
 ```
 
-Naam aur sheher ko comma se ek cell me jodo. Address list banane me kaam aata hai.
+Roz ki entry sheet me aaj ki date apne aap aa jayegi, haath se likhne ki galti nahi hogi.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
