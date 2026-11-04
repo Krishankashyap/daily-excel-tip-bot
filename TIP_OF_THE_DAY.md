@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-03
+**Date:** 2026-11-04
 
-## TODAY - aaj ki date apne aap
+## Data Filter - sheher-wise list nikalo
 
 ```
-=TODAY()
+Data > Filter (Ctrl + Shift + L)
 ```
 
-Roz ki entry sheet me aaj ki date apne aap aa jayegi, haath se likhne ki galti nahi hogi.
+1000 rows me se sirf Delhi wali rows dikhao, baaki chhup jayengi. Boss ko sheher-wise list bhejne ka sabse tez tareeka.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
