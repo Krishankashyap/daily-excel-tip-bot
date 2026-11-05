@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-04
+**Date:** 2026-11-05
 
-## Data Filter - sheher-wise list nikalo
+## Filter + Sort - pehle chhanto, phir kram lagao
 
 ```
-Data > Filter (Ctrl + Shift + L)
+Data > Filter, phir Data > Sort
 ```
 
-1000 rows me se sirf Delhi wali rows dikhao, baaki chhup jayengi. Boss ko sheher-wise list bhejne ka sabse tez tareeka.
+Pehle Filter se chahiye wali rows nikalo, phir Sort se A-Z ya number ke kram me lagao. Dono ek saath use karna DEO ki roz ki aadat honi chahiye.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
