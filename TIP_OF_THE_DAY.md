@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-05
+**Date:** 2026-11-06
 
-## Filter + Sort - pehle chhanto, phir kram lagao
+## Remove Duplicates - double entry hatao
 
 ```
-Data > Filter, phir Data > Sort
+Data > Remove Duplicates
 ```
 
-Pehle Filter se chahiye wali rows nikalo, phir Sort se A-Z ya number ke kram me lagao. Dono ek saath use karna DEO ki roz ki aadat honi chahiye.
+Ek hi customer ya employee do baar entry ho gaya ho to ek click me duplicate rows hat jayengi. Karne se pehle sheet ka backup le lena.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
