@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-06
+**Date:** 2026-11-07
 
-## Remove Duplicates - double entry hatao
+## Conditional Formatting - duplicate rang se dikhao
 
 ```
-Data > Remove Duplicates
+Home > Conditional Formatting > Highlight Duplicates
 ```
 
-Ek hi customer ya employee do baar entry ho gaya ho to ek click me duplicate rows hat jayengi. Karne se pehle sheet ka backup le lena.
+Duplicate entries apne aap rang me dikhne lagengi — aankh se dhoondhne ki zaroorat nahi.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
