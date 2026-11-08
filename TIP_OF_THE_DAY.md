@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-07
+**Date:** 2026-11-08
 
-## Conditional Formatting - duplicate rang se dikhao
+## Pivot Table - mahine ka summary minute me
 
 ```
-Home > Conditional Formatting > Highlight Duplicates
+Insert > PivotTable
 ```
 
-Duplicate entries apne aap rang me dikhne lagengi — aankh se dhoondhne ki zaroorat nahi.
+Poore mahine ki entry ka summary: har sheher ki total sales, har item ki ginti. DEO se report maangi jaye to Pivot se banti hai, haath se nahi.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
