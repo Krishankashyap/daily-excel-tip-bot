@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-08
+**Date:** 2026-11-09
 
-## Pivot Table - mahine ka summary minute me
+## Pivot Table Refresh - naya data aate hi update
 
 ```
-Insert > PivotTable
+PivotTable par right-click > Refresh
 ```
 
-Poore mahine ki entry ka summary: har sheher ki total sales, har item ki ginti. DEO se report maangi jaye to Pivot se banti hai, haath se nahi.
+Nayi entries daalne ke baad Pivot purana summary dikhata hai — Refresh karne par naya data aa jata hai. Refresh bhoolna sabse aam galti hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
