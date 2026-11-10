@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-09
+**Date:** 2026-11-10
 
-## Pivot Table Refresh - naya data aate hi update
+## Freeze Panes - header upar jamao
 
 ```
-PivotTable par right-click > Refresh
+View > Freeze Panes
 ```
 
-Nayi entries daalne ke baad Pivot purana summary dikhata hai — Refresh karne par naya data aa jata hai. Refresh bhoolna sabse aam galti hai.
+1000 rows scroll karo, header upar jama rahega. Kaun sa column kya hai, ye baar-baar upar jaakar dekhna nahi padega.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
