@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-10
+**Date:** 2026-11-11
 
-## Freeze Panes - header upar jamao
+## Data Validation - galat entry roko
 
 ```
-View > Freeze Panes
+Data > Data Validation > List
 ```
 
-1000 rows scroll karo, header upar jama rahega. Kaun sa column kya hai, ye baar-baar upar jaakar dekhna nahi padega.
+Ek column me sirf 'Present / Absent' ya sheher ke naam hi daale ja sakein, galat spelling ki entry hi nahi hogi.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
