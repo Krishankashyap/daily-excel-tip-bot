@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-11
+**Date:** 2026-11-12
 
-## Data Validation - galat entry roko
+## Text to Columns - ek cell ka data todo
 
 ```
-Data > Data Validation > List
+Data > Text to Columns
 ```
 
-Ek column me sirf 'Present / Absent' ya sheher ke naam hi daale ja sakein, galat spelling ki entry hi nahi hogi.
+'Krishan, Delhi, 25' ek cell me aaya ho to naam, sheher, umar alag columns me tod do.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
