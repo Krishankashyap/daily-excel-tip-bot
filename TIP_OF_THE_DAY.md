@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-12
+**Date:** 2026-11-13
 
-## Text to Columns - ek cell ka data todo
+## Paste Special Values - formula hatao, sirf result rakho
 
 ```
-Data > Text to Columns
+Ctrl + Alt + V > Values
 ```
 
-'Krishan, Delhi, 25' ek cell me aaya ho to naam, sheher, umar alag columns me tod do.
+Formula wali sheet ko boss ko bhejne se pehle sirf values me badlo, taaki aage koi formula toot na jaye.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
