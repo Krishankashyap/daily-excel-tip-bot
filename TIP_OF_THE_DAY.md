@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-13
+**Date:** 2026-11-14
 
-## Paste Special Values - formula hatao, sirf result rakho
+## Find & Replace - galat spelling ek saath theek karo
 
 ```
-Ctrl + Alt + V > Values
+Ctrl + H
 ```
 
-Formula wali sheet ko boss ko bhejne se pehle sirf values me badlo, taaki aage koi formula toot na jaye.
+Poori sheet me 'Dehli' ko 'Delhi' ek baar me badlo. 1000 rows me haath se theek karna time ki barbaadi hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
