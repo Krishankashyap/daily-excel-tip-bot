@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-14
+**Date:** 2026-11-15
 
-## Find & Replace - galat spelling ek saath theek karo
+## Advance: SUMPRODUCT - bina helper column ke total
 
 ```
-Ctrl + H
+=SUMPRODUCT((A2:A100="Delhi")*(C2:C100))
 ```
 
-Poori sheet me 'Dehli' ko 'Delhi' ek baar me badlo. 1000 rows me haath se theek karna time ki barbaadi hai.
+Bina extra column banaye, shart wali rows ka total. Advance level ka formula, par DEO report me bahut kaam aata hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
