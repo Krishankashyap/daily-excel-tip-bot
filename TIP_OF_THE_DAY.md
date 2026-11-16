@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-15
+**Date:** 2026-11-16
 
-## Advance: SUMPRODUCT - bina helper column ke total
+## SUM - din ki total entry
 
 ```
-=SUMPRODUCT((A2:A100="Delhi")*(C2:C100))
+=SUM(C2:C100)
 ```
 
-Bina extra column banaye, shart wali rows ka total. Advance level ka formula, par DEO report me bahut kaam aata hai.
+DEO ki aam zindagi: din bhar ki sales, attendance ya amount ka total. C2:C100 me jo bhi numbers hain, ek formula se total — haath se jodne ki galti khatam.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
