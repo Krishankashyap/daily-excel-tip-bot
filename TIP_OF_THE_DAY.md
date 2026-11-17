@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-16
+**Date:** 2026-11-17
 
-## SUM - din ki total entry
+## AVERAGE - ausat marks / ausat kaam
 
 ```
-=SUM(C2:C100)
+=AVERAGE(B2:B50)
 ```
 
-DEO ki aam zindagi: din bhar ki sales, attendance ya amount ka total. C2:C100 me jo bhi numbers hain, ek formula se total — haath se jodne ki galti khatam.
+Class ke marks ka ausat, ya mahine ki ausat entry. Khaali cells apne aap ignore ho jaati hain.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
