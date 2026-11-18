@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-17
+**Date:** 2026-11-18
 
-## AVERAGE - ausat marks / ausat kaam
+## AVERAGEIF - ek group ka ausat
 
 ```
-=AVERAGE(B2:B50)
+=AVERAGEIF(A2:A100, "Delhi", B2:B100)
 ```
 
-Class ke marks ka ausat, ya mahine ki ausat entry. Khaali cells apne aap ignore ho jaati hain.
+Sirf Delhi wale students ka ausat marks, ya sirf ek shift ka ausat kaam — group-wise ausat ek formula me.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
