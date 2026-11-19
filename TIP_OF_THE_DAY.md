@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-18
+**Date:** 2026-11-19
 
-## AVERAGEIF - ek group ka ausat
+## COUNT - kitni entries hui
 
 ```
-=AVERAGEIF(A2:A100, "Delhi", B2:B100)
+=COUNT(A2:A500)
 ```
 
-Sirf Delhi wale students ka ausat marks, ya sirf ek shift ka ausat kaam — group-wise ausat ek formula me.
+Aaj kitni rows me number daale gaye, ye ginna. Kaam ki ginti (count) report karne me roz kaam aata hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
