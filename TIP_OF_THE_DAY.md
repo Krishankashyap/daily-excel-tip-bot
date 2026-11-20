@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-19
+**Date:** 2026-11-20
 
-## COUNT - kitni entries hui
+## COUNTIF - Present kitne, Absent kitne
 
 ```
-=COUNT(A2:A500)
+=COUNTIF(D2:D100, "Present")
 ```
 
-Aaj kitni rows me number daale gaye, ye ginna. Kaam ki ginti (count) report karne me roz kaam aata hai.
+Attendance sheet me Present kitne hain, ye ek formula se. Absent ke liye 'Absent' likh do, bas.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
