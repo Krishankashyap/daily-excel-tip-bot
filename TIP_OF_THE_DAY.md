@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-20
+**Date:** 2026-11-21
 
-## COUNTIF - Present kitne, Absent kitne
+## COUNTIF - duplicate entry pakdo
 
 ```
-=COUNTIF(D2:D100, "Present")
+=COUNTIF($A$2:$A$100, A2)
 ```
 
-Attendance sheet me Present kitne hain, ye ek formula se. Absent ke liye 'Absent' likh do, bas.
+Agar result 1 se zyada aaye to wo entry duplicate hai. Data entry me double entry pakadne ka sabse tez tareeka.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
