@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-21
+**Date:** 2026-11-22
 
-## COUNTIF - duplicate entry pakdo
+## COUNTIFS - do sharton par gino
 
 ```
-=COUNTIF($A$2:$A$100, A2)
+=COUNTIFS(A2:A100, "Delhi", D2:D100, "Present")
 ```
 
-Agar result 1 se zyada aaye to wo entry duplicate hai. Data entry me double entry pakadne ka sabse tez tareeka.
+Delhi se Present kitne hain — sheher + attendance dono shart ek saath.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
