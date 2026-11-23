@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-22
+**Date:** 2026-11-23
 
-## COUNTIFS - do sharton par gino
+## SUMIF - ek sheher / ek item ka total
 
 ```
-=COUNTIFS(A2:A100, "Delhi", D2:D100, "Present")
+=SUMIF(A2:A100, "Delhi", C2:C100)
 ```
 
-Delhi se Present kitne hain — sheher + attendance dono shart ek saath.
+Sirf Delhi ki total sales, ya sirf ek item ka total stock — poori sheet me se chhant kar total.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
