@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-23
+**Date:** 2026-11-24
 
-## SUMIF - ek sheher / ek item ka total
+## SUMIFS - mahina + sheher ka total
 
 ```
-=SUMIF(A2:A100, "Delhi", C2:C100)
+=SUMIFS(C2:C100, A2:A100, "Delhi", B2:B100, "Nov")
 ```
 
-Sirf Delhi ki total sales, ya sirf ek item ka total stock — poori sheet me se chhant kar total.
+November + Delhi dono shart poori hone wali rows ka total. Monthly report banane me roz kaam aata hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
