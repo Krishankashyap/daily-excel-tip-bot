@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-24
+**Date:** 2026-11-25
 
-## SUMIFS - mahina + sheher ka total
+## IF - Pass / Fail lagao
 
 ```
-=SUMIFS(C2:C100, A2:A100, "Delhi", B2:B100, "Nov")
+=IF(B2>=33, "Pass", "Fail")
 ```
 
-November + Delhi dono shart poori hone wali rows ka total. Monthly report banane me roz kaam aata hai.
+Marks sheet me Pass/Fail apne aap lagao. 33 ki jagah jo passing marks ho, wo daal do.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
