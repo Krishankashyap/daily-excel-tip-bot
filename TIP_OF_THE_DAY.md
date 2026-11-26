@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-25
+**Date:** 2026-11-26
 
-## IF - Pass / Fail lagao
+## IF + AND - do shart ek saath
 
 ```
-=IF(B2>=33, "Pass", "Fail")
+=IF(AND(B2>=33, C2="Present"), "Pass", "Fail")
 ```
 
-Marks sheet me Pass/Fail apne aap lagao. 33 ki jagah jo passing marks ho, wo daal do.
+Marks bhi pass ho AUR attendance bhi Present ho, tabhi Pass — dono shart ek formula me.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
