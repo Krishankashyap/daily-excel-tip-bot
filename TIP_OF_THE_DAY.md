@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-26
+**Date:** 2026-11-27
 
-## IF + AND - do shart ek saath
+## IFERROR - error wali sheet saaf rakho
 
 ```
-=IF(AND(B2>=33, C2="Present"), "Pass", "Fail")
+=IFERROR(A2/B2, 0)
 ```
 
-Marks bhi pass ho AUR attendance bhi Present ho, tabhi Pass — dono shart ek formula me.
+Divide by zero ya missing data par #DIV/0! ki jagah 0 dikhega. Boss ko bhejne wali sheet me error nahi dikhna chahiye.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
