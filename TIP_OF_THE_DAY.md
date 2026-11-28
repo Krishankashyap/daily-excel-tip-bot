@@ -1,14 +1,14 @@
 # Excel Tip of the Day
 
-**Date:** 2026-11-27
+**Date:** 2026-11-28
 
-## IFERROR - error wali sheet saaf rakho
+## VLOOKUP - ID se naam nikalo
 
 ```
-=IFERROR(A2/B2, 0)
+=VLOOKUP(A2, $D$2:$F$100, 2, FALSE)
 ```
 
-Divide by zero ya missing data par #DIV/0! ki jagah 0 dikhega. Boss ko bhejne wali sheet me error nahi dikhna chahiye.
+Employee ID daalo, naam apne aap aa jayega. FALSE ka matlab exact ID milni chahiye, warna galat naam aa sakta hai.
 
 ---
 Daily Excel Tip Bot — one tip every day, for Data Entry Operator (DEO) practice.
